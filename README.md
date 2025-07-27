@@ -1,4 +1,6 @@
-### Un nouveau bot bien meilleur et bien plus complet : https://github.com/4wip/4Protect-V2
+### La version refaite du crowbot n'es plus à jour elle date de 3 ans et vous êtes limité niveau commande je vous recommande de regarder de passé à 
+
+4Protect est un bot Discord polyvalent pour la gestion de serveurs. Gratuit, puissant et entièrement personnalisable, il vous aide à sécuriser, modérer et automatiser votre communauté en toute simplicité. https://github.com/4wip/4Protect-V2
 
 Créer un bot
 ```
