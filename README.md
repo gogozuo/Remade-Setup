@@ -1,4 +1,5 @@
 Discord: https://dsc.gg/4wip
+### Un nouveau bot bien meilleur et bien plus complet : https://github.com/4wip/4Protect-V2
 
 Créer un bot
 ```
