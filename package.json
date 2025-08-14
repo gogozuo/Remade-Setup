@@ -5,27 +5,20 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "preinstall": "npm install --no-package-lock --omit=optional"
+    "install": "npm install --legacy-peer-deps --no-package-lock"
   },
   "engines": {
-    "node": "16.20.0"
+    "node": "16.20.0",
+    "npm": "6.14.15"
   },
   "dependencies": {
     "discord.js": "12.5.3",
     "discord-buttons": "4.0.0",
     "discord-logs": "2.0.1",
-    "@discordjs/opus": "0.9.0",
     "opusscript": "0.0.8",
     "ffmpeg-static": "4.4.0",
     "axios": "0.24.0",
-    "request": "2.88.2",
-    "superagent": "6.1.0",
-    "cross-fetch": "3.1.4",
-    "canvacord": "5.2.3",
     "quick.db": "7.1.3",
-    "discord-backup": "2.5.0",
-    "mathjs": "10.0.1",
-    "randomstring": "1.2.1",
-    "bindings": "1.5.0"
+    "canvacord": "5.2.3"
   }
 }
